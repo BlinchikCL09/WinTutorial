@@ -18,3 +18,12 @@ Cразу хочу отметить, что установка Windows это д
 
 ![Image alt](https://github.com/BlinchikCL09/WinTutorial/blob/main/Снимок%20экрана%20(1).png)
 
+
+После запуска вставляем флэшку и в открывшемся окне выбираем наш [ISO образ](https://github.com/BlinchikCL09/WinTutorial/blob/main/rufus-4.3.zip) и нажимаем открыть.
+
+
+![Image alt](https://github.com/BlinchikCL09/WinTutorial/blob/main/Снимок%20экрана%20(4).png)
+
+
+
+
