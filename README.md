@@ -21,7 +21,7 @@
 
 После запуска вставляем флэшку и в открывшемся окне выбираем наш ISO образ и нажимаем открыть.
 
-!Image alt.png)
+<img src="https://github.com/BlinchikCL09/WinTutorial/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(4).png" width="700" height="400" />
 
 Нажимаем кнопку СТАРТ и в открывшемся окне ставим эти галочки:
 
