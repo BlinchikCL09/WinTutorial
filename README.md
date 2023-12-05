@@ -1,6 +1,7 @@
 # Как установить Windows 11
 
 ![Image alt](https://github.com/BlinchikCL09/WinTutorial/blob/main/snapedit_1701797917819.png)
+<img src="https://github.com/BlinchikCL09/WinTutorial/blob/main/snapedit_1701797917819.png" width="200" height="200" />
 
 Сразу хочу отметить, что установка Windows - это довольно не простой процесс, который я не советую проворачивать новичкам.
 
