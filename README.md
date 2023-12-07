@@ -13,7 +13,7 @@
 
 # Создание загрузочной флэшки
 
-Превым делом создаём загрузочную флэшку, для этого используйте [Rufus](https://github.com/BlinchikCL09/WinTutorial/blob/main/rufus-4.3.zip).
+Превым делом создаём загрузочную флэшку, для этого используйте [Rufus](https://drive.google.com/file/d/10KEip9q-BsDM2U1s1LwzU45vA5MSCcYw/view?usp=drivesdk).
 
 
 При открытии программы вас встретит такой интерфейс:
